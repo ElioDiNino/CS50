@@ -1,0 +1,142 @@
+/* ------- */
+/* General */
+/* ------- */
+
+/* Header */
+.header {
+    background-color: #00b081;
+    color: #ffffff;
+    line-height: 1.5rem;
+    padding: 50px 0px;
+    text-align: center;
+}
+
+/* Page contents */
+#page-container {
+  position: relative;
+  min-height: 91.4vh;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* Links on hover */
+a:hover {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* Website title on hover */
+#title:hover {
+    color: #bababa;
+    transition: color 0.2s ease-in-out;
+}
+
+/* Page background */
+body {
+    background-color: #ffffff;
+}
+
+/* Minor header */
+h4 {
+    margin: 20px 0px;
+}
+
+/* Buttons */
+button {
+    background-color: #00b081;
+    border: 2px solid;
+    color: #ffffff;
+    border-color: #ffffff;
+    border-radius: 0.25rem;
+    font-size: 0.95rem;
+    font-weight: 400;
+    padding: 0.375rem 0.75rem;
+    margin: 10px 5px;
+    text-align: center;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    vertical-align: middle;
+}
+
+/* Button on hover */
+button:hover {
+    background-color: #00805d;
+}
+
+/* Footer */
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #00b081;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+
+/* --------- */
+/* Home Page */
+/* --------- */
+
+#freedom {
+    color: #00b081;
+    font-size: 4rem;
+    padding: 10px;
+}
+
+.home {
+    text-align: center;
+    padding: 170px 0px 0px 0px;
+    line-height: 2.0;
+}
+
+/* -------------- */
+/* Downloads Page */
+/* -------------- */
+
+.free {
+    text-align: center;
+    padding: 50px;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#free-ram {
+    font-size: 5rem;
+    padding: 0px 40px 10px 40px;
+    border-radius: 1rem;
+}
+
+#free-cpu {
+    font-size: 5rem;
+    padding: 0px 40px 10px 40px;
+    margin: 40px;
+    border-radius: 1rem;
+}
+
+/* ------------ */
+/* Careers Page */
+/* ------------ */
+
+.careers {
+    text-align: center;
+    padding: 130px 0px 0px 0px;
+    line-height: 2.0;
+}
+
+#join {
+    color: #00b081;
+    font-size: 4rem;
+    padding: 10px;
+}
+
+/* ----------- */
+/* Secret Page */
+/* ----------- */
+
+#yt {
+    vertical-align: central;
+}
